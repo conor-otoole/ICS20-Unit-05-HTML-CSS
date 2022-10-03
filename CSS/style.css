@@ -3,22 +3,22 @@
 * This file contains the CSS for index.html
 */
 .mdl-layout__content {
-padding-left: 20pt;
-padding-right: 20pt;
-padding-top: 20pt;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 20pt;
 }
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
-background: #1100ff;
-opacity: 0.001;
+  background: #1100ff;
+  opacity: 0.001;
 }
 body {
-background-color: red;
+  background-color: red;
 }
 p {
-color: #1eff00;
-font-family: Helvetica, Arial, sans-serif;
-font-size: 1.5rem;
-padding-top: 5pt;
+  color: #1eff00;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
 }
